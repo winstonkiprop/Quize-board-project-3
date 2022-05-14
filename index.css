@@ -1,12 +1,53 @@
 body{
-   background-color:whitesmoke;
+  background-color: rgb(241, 243, 115);
     font-family: 'Courier New', Courier, monospace;
     justify-content: center;
     margin: 5px;
     overflow: scroll;
+   
 }
  #img1{
     margin-top: 30px;
-   margin-left: 300px;
+   margin-left: 500px;
+   border-radius: 5rem;
+   width: 300px;
    
 }
+.header{
+    font: size 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+    font-style: italic;
+    color: rgba(6, 9, 12, 0.973);
+  margin-left: 400px
+  ;
+   
+}
+.form{
+    
+    background-color: rgb(42, 165, 165);
+    width: 300px;
+    margin-left: 500px;
+    height: 200px;
+    margin-top: 20px;
+    border-radius: 3em;
+}
+.form{
+    text-align: center;
+    font-size: 20px;
+}
+ .button:hover{
+     background-color: blueviolet;
+    color: beige;
+   height: fit-content;
+   border-radius: 1rem;
+   display: block;
+ 
+ }
+ .button{
+     width: 70px;
+     height: 20px;
+     text-align: center;
+     padding-left: 130px;
+     display: block;
+ }
