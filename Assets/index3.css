@@ -1,0 +1,52 @@
+body{
+    background-color: red;
+padding-top: 0;
+margin-top: 0;
+
+}
+.listhead{
+    background-color: white;
+    width: 15=1050Apx;
+    height: 80px;
+    padding-top: 0;
+    margin-top: 0;
+    background-image: url(../Assets/images\ \(3\).jpeg);
+   
+}
+.header45{
+    display: flex;
+    margin-top: 0;
+    justify-content: space-between;
+    font-size: large;
+    font-weight: 700;
+}
+.quiz:hover{
+    color: blue;
+}
+.grades:hover{
+    color: blue;
+}
+
+#hey:hover{
+    color: blue;
+    
+}
+.course{
+    color: white;
+}
+.quiz{
+    color: white;
+}
+.grades{
+    color: white;
+}
+#hey{
+    color: white;
+}
+#part2{
+    color: white;
+}
+#part2:hover{
+    color: blue;
+
+}
