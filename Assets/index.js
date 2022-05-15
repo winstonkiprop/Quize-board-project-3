@@ -23,7 +23,7 @@ function result() {
        
        alert ("your score is:"+score)
        calculate_percent=score/5;
-       percentage= score/6*100;
+       percentage= score/5*100;
        if(percentage>80){
            document.write("" + "[performed excellency]" );
        }
