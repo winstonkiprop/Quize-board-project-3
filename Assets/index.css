@@ -1,3 +1,45 @@
 body{
     background-color:white;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.head{
+    list-style: none;
+    float: left ;
+    margin-top: 0;
+    background-color:red;
+    height: 100px;
+    display: inline-flex;
+    padding : 0 10px 0 10px; 
+    width: 1000px;  
+    flex: right;
+    padding-left:200px ;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    padding-top: 20px;
+}
+.ruleshead{
+    justify-content: center;
+    padding-left: 220px;
+    background-color:white;
+    ;
+    padding-top: 150px;
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    
+}
+.navbar{
+    margin-top: 0px;
+    padding-top: 30px;
+    
+}
+.rulescontainer{
+    background-color: aqua;
+    margin-top: 30px;
+    justify-content: center;
+   justify-content: space-around;
+    margin: 0%;
+ justify-content: space-around;
+ 
 }
