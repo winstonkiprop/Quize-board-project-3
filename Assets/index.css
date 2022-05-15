@@ -11,7 +11,7 @@ body{
     height: 100px;
     display: inline-flex;
     padding : 0 10px 0 10px; 
-    width: 1000px;  
+    width: 1080px;  
     flex: right;
     padding-left:200px ;
     justify-content: space-between;
@@ -35,11 +35,26 @@ body{
     
 }
 .rulescontainer{
-    background-color: aqua;
+    
     margin-top: 30px;
     justify-content: center;
    justify-content: space-around;
     margin: 0%;
  justify-content: space-around;
+ font-size: 30px;
  
+}
+.btn{
+    background-color:red;
+    padding-top: 40px;
+    padding-bottom: 30px;
+    padding-left: 20px;
+    margin-left: 300px;
+    width: 200px;
+    font: 700;
+    font-size: 30px;
+    border-radius: 3rem;
+}
+.btn:hover{
+    color: white;
 }
